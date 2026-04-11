@@ -1,7 +1,6 @@
 \# Google ADK Project – Time + Calculator Agent
 
 
-
 This project is a custom AI agent built using \*\*Google ADK\*\*, with two tools:
 
 \- A Time Tool (returns system time for any city)
@@ -154,5 +153,6 @@ GOOGLE\_GENAI\_API\_KEY=your\_api\_key\_here
 
 \## 👤 Author
 
-Rachana (ECE Student)
+Rachana 
 
+⚠️ Note: API keys are stored securely using .env and are not included in this repository.
